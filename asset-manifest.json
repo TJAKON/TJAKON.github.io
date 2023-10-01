@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9f67b1a.css",
+    "main.js": "/static/js/main.2322d057.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/crowdfunding.jpg": "/static/media/crowdfunding.98a9cc76499d9816a788.jpg",
+    "static/media/ad-tech.jpg": "/static/media/ad-tech.891f319a18af8035894c.jpg",
+    "static/media/bitcoin-svg.svg": "/static/media/bitcoin-svg.6164e348e456c5f5f8570c907717b206.svg",
+    "static/media/survay.jpg": "/static/media/survay.5900e9518f2ea37dd65b.jpg",
+    "static/media/contracts.jpg": "/static/media/contracts.e08923ed6a41f500f2c1.jpg",
+    "static/media/home-bg-1.jpg": "/static/media/home-bg-1.3a60e716c642116efae3.jpg",
+    "static/media/pig-game.png": "/static/media/pig-game.7a6cf491c482e3af7cbd.png",
+    "static/media/nft-marketplace.jpg": "/static/media/nft-marketplace.cc3a3d40448429ac9893.jpg",
+    "static/media/yogapose.jpg": "/static/media/yogapose.b5a4b74d46a9d7c657fb.jpg",
+    "static/media/test.svg": "/static/media/test.748111cae1b18a0d2b8fc9605f2f2544.svg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/test2.svg": "/static/media/test2.7d2f7c8831b7371d87faa805416f51ef.svg",
+    "static/media/desk.svg": "/static/media/desk.893a7d494f807d047310b0f03551c1c2.svg",
+    "static/media/test1.svg": "/static/media/test1.8cc4ad81ef8b2524c2f79eaf39671f81.svg",
+    "static/media/about-sec.svg": "/static/media/about-sec.9b27ed00f3eca7d500c024e723eafd6c.svg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.d9f67b1a.css.map": "/static/css/main.d9f67b1a.css.map",
+    "main.2322d057.js.map": "/static/js/main.2322d057.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f67b1a.css",
+    "static/js/main.2322d057.js"
+  ]
+}
