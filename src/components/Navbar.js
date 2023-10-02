@@ -84,6 +84,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 href="https://drive.google.com/uc?export=download&id=1lMITU57yV9kdBbmNaNgCTHKpOV3wdMYG"
+                // test
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
