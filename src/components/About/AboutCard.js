@@ -10,7 +10,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }} className="pb-3">
             Hi, I am <span className="purple">Jaiprakash </span>
-            from <span className="purple"> Raipur, Chhatisghar, India.</span>
+            from <span className="purple"> Raipur, Chhattisgarh, India.</span>
             <br />I completed my <span className="purple">Masters in Computer Application </span>from RITEE, Raipur.
             <br />
             <br />My interest in Blockchain technology has drive me to secure verified certificates from renowned organizations, enhancing my understanding and enabling me to explore practical, scalable use cases.

@@ -83,13 +83,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://drive.google.com/file/d/12MWf7RCbv2ZTg6G01MznHte1tOx-b0-N/view?usp=drive_link"
-                // href="https://docs.google.com/document/d/1EagXfchk87utrkiz9Y_XpeFiyeHKMQ-2RyJCWz2D-hg/export?format=pdf"
-                // href="https://docs.google.com/document/d/1EagXfchk87utrkiz9Y_XpeFiyeHKMQ-2RyJCWz2D-hg/edit?usp=drive_link"
-                // target="_blank" 
-                // download="YourResume.pdf"
-                
-                
+                href="https://drive.google.com/uc?export=download&id=1lMITU57yV9kdBbmNaNgCTHKpOV3wdMYG"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
